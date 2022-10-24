@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node mapFilterReduce.js"
+    "start": "node mapFilterReduce.js",
+    "start-restSpread": "node mapFilterReduce.js",
+    "start-destruct": "node desctructuring.js"
+
   },
   "keywords": [],
   "author": "",
